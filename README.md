@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deplpy (vercel)
-- [ ] Scaffold basic ui with mock data
+- [x] Make it deplpy (vercel)
+- [x] Scaffold basic ui with mock data
 - [ ] Actually setup a database (vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add auth (w/ clerk)
